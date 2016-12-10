@@ -2,6 +2,8 @@
 * Standard NtripCaster *
 ************************
 
+Further documentation can be found at http://petig.eu/rtk/
+
 Introduction
 ~~~~~~~~~~~~
 
